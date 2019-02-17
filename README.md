@@ -1,1 +1,1 @@
-# codeignter-piper
+# codeigniter-piper
