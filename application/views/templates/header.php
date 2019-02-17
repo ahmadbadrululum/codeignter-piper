@@ -1,0 +1,1 @@
+<h1>Disini halaman <?php echo $title; ?> belajar codeigniter </h1>
